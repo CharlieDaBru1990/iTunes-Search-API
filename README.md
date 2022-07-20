@@ -10,3 +10,5 @@ install node_modules on both the client side and server side.
 
 * please note you can run both ends concurrently by typing `npm dev` from the `/ItuneWebsite` directory
 * of you can `npm start` from  `ItuneWebsite` then from `client` to run them individually
+
+https://git.heroku.com/charlies-itunes-app.git
